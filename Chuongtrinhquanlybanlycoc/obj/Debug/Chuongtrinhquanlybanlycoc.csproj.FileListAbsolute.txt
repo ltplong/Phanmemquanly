@@ -1,0 +1,50 @@
+D:\BAITAPLON C#\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\bin\Debug\Chuongtrinhquanlybanlycoc.exe.config
+D:\BAITAPLON C#\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\bin\Debug\Chuongtrinhquanlybanlycoc.exe
+D:\BAITAPLON C#\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\bin\Debug\Chuongtrinhquanlybanlycoc.pdb
+D:\BAITAPLON C#\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.csproj.AssemblyReference.cache
+D:\BAITAPLON C#\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.Properties.Resources.resources
+D:\BAITAPLON C#\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.csproj.GenerateResource.cache
+D:\BAITAPLON C#\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.csproj.CoreCompileInputs.cache
+D:\BAITAPLON C#\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.exe
+D:\BAITAPLON C#\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.pdb
+D:\BAITAPLON C#\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.frmChuongTrinhQuanLy.resources
+D:\BAITAPLON C#\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.frmLoai.resources
+D:\BAITAPLON C#\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.frmChatLieu.resources
+D:\BAITAPLON C#\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.frmNhanVien.resources
+D:\BAITAPLON C#\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.frmCongDung.resources
+D:\BAITAPLON C#\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.frmDacDiem.resources
+D:\BAITAPLON C#\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.frmCongViec.resources
+D:\BAITAPLON C#\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.frmHinhDang.resources
+D:\BAITAPLON C#\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.frmMau.resources
+D:\BAITAPLON C#\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.frmNoiSXcs.resources
+D:\BAITAPLON C#\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.frmKhachHang.resources
+D:\BAITAPLON C#\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.frmNhaCC.resources
+D:\BAITAPLON C#\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.frmDMHangHoa.resources
+D:\BAITAPLON C#\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.frmHoaDonBan.resources
+D:\BAITAPLON C#\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.frmHoaDonNhap.resources
+C:\Users\Admin\OneDrive\Máy tính\Ky1-Nam3\LAP TRÌNH\BAITAPLON C# NHOM10\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\bin\Debug\Chuongtrinhquanlybanlycoc.exe.config
+C:\Users\Admin\OneDrive\Máy tính\Ky1-Nam3\LAP TRÌNH\BAITAPLON C# NHOM10\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\bin\Debug\Chuongtrinhquanlybanlycoc.exe
+C:\Users\Admin\OneDrive\Máy tính\Ky1-Nam3\LAP TRÌNH\BAITAPLON C# NHOM10\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\bin\Debug\Chuongtrinhquanlybanlycoc.pdb
+C:\Users\Admin\OneDrive\Máy tính\Ky1-Nam3\LAP TRÌNH\BAITAPLON C# NHOM10\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\Ky1-Nam3\LAP TRÌNH\BAITAPLON C# NHOM10\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Máy tính\Ky1-Nam3\LAP TRÌNH\BAITAPLON C# NHOM10\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.frmChuongTrinhQuanLy.resources
+C:\Users\Admin\OneDrive\Máy tính\Ky1-Nam3\LAP TRÌNH\BAITAPLON C# NHOM10\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.frmChatLieu.resources
+C:\Users\Admin\OneDrive\Máy tính\Ky1-Nam3\LAP TRÌNH\BAITAPLON C# NHOM10\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.frmDMHangHoa.resources
+C:\Users\Admin\OneDrive\Máy tính\Ky1-Nam3\LAP TRÌNH\BAITAPLON C# NHOM10\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.frmHinhDang.resources
+C:\Users\Admin\OneDrive\Máy tính\Ky1-Nam3\LAP TRÌNH\BAITAPLON C# NHOM10\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.frmCongDung.resources
+C:\Users\Admin\OneDrive\Máy tính\Ky1-Nam3\LAP TRÌNH\BAITAPLON C# NHOM10\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.frmCongViec.resources
+C:\Users\Admin\OneDrive\Máy tính\Ky1-Nam3\LAP TRÌNH\BAITAPLON C# NHOM10\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.frmDacDiem.resources
+C:\Users\Admin\OneDrive\Máy tính\Ky1-Nam3\LAP TRÌNH\BAITAPLON C# NHOM10\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.frmHoaDonBan.resources
+C:\Users\Admin\OneDrive\Máy tính\Ky1-Nam3\LAP TRÌNH\BAITAPLON C# NHOM10\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.frmHoaDonNhap.resources
+C:\Users\Admin\OneDrive\Máy tính\Ky1-Nam3\LAP TRÌNH\BAITAPLON C# NHOM10\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.frmKhachHang.resources
+C:\Users\Admin\OneDrive\Máy tính\Ky1-Nam3\LAP TRÌNH\BAITAPLON C# NHOM10\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.frmLoai.resources
+C:\Users\Admin\OneDrive\Máy tính\Ky1-Nam3\LAP TRÌNH\BAITAPLON C# NHOM10\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.frmMau.resources
+C:\Users\Admin\OneDrive\Máy tính\Ky1-Nam3\LAP TRÌNH\BAITAPLON C# NHOM10\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.frmNhaCC.resources
+C:\Users\Admin\OneDrive\Máy tính\Ky1-Nam3\LAP TRÌNH\BAITAPLON C# NHOM10\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.frmNhanVien.resources
+C:\Users\Admin\OneDrive\Máy tính\Ky1-Nam3\LAP TRÌNH\BAITAPLON C# NHOM10\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.frmNoiSXcs.resources
+C:\Users\Admin\OneDrive\Máy tính\Ky1-Nam3\LAP TRÌNH\BAITAPLON C# NHOM10\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Máy tính\Ky1-Nam3\LAP TRÌNH\BAITAPLON C# NHOM10\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\Ky1-Nam3\LAP TRÌNH\BAITAPLON C# NHOM10\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\Ky1-Nam3\LAP TRÌNH\BAITAPLON C# NHOM10\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.exe
+C:\Users\Admin\OneDrive\Máy tính\Ky1-Nam3\LAP TRÌNH\BAITAPLON C# NHOM10\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.pdb
+C:\Users\Admin\OneDrive\Máy tính\Ky1-Nam3\LAP TRÌNH\BAITAPLON C# NHOM10\Chuongtrinhquanlybanlycoc\Chuongtrinhquanlybanlycoc\obj\Debug\Chuongtrinhquanlybanlycoc.frmLogin.resources

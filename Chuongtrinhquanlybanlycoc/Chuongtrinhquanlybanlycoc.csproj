@@ -1,0 +1,422 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4D4CBE42-CB93-4FEE-A91A-3E5DACAC65B7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Chuongtrinhquanlybanlycoc</RootNamespace>
+    <AssemblyName>Chuongtrinhquanlybanlycoc</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\DataBaseProcess.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChatLieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChatLieu.Designer.cs">
+      <DependentUpon>frmChatLieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDMHangHoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDMHangHoa.Designer.cs">
+      <DependentUpon>frmDMHangHoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHinhDang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHinhDang.Designer.cs">
+      <DependentUpon>frmHinhDang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCongDung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCongDung.Designer.cs">
+      <DependentUpon>frmCongDung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCongViec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCongViec.Designer.cs">
+      <DependentUpon>frmCongViec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDacDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDacDiem.Designer.cs">
+      <DependentUpon>frmDacDiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHoaDonBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHoaDonBan.Designer.cs">
+      <DependentUpon>frmHoaDonBan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHoaDonNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHoaDonNhap.Designer.cs">
+      <DependentUpon>frmHoaDonNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKhachHang.Designer.cs">
+      <DependentUpon>frmKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoai.Designer.cs">
+      <DependentUpon>frmLoai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMau.Designer.cs">
+      <DependentUpon>frmMau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNhaCC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNhaCC.Designer.cs">
+      <DependentUpon>frmNhaCC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNhanVien.Designer.cs">
+      <DependentUpon>frmNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNoiSXcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNoiSXcs.Designer.cs">
+      <DependentUpon>frmNoiSXcs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ketnoidelogin.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="_baitaplonC_DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_baitaplonC_DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="_baitaplonC_DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_baitaplonC_DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="_baitaplonC_DataSet10.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_baitaplonC_DataSet10.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="_baitaplonC_DataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_baitaplonC_DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="_baitaplonC_DataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_baitaplonC_DataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="_baitaplonC_DataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_baitaplonC_DataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="_baitaplonC_DataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_baitaplonC_DataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="_baitaplonC_DataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_baitaplonC_DataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="_baitaplonC_DataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_baitaplonC_DataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="_baitaplonC_DataSet8.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_baitaplonC_DataSet8.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="_baitaplonC_DataSet9.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_baitaplonC_DataSet9.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChatLieu.resx">
+      <DependentUpon>frmChatLieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDMHangHoa.resx">
+      <DependentUpon>frmDMHangHoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHinhDang.resx">
+      <DependentUpon>frmHinhDang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCongDung.resx">
+      <DependentUpon>frmCongDung.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCongViec.resx">
+      <DependentUpon>frmCongViec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDacDiem.resx">
+      <DependentUpon>frmDacDiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHoaDonBan.resx">
+      <DependentUpon>frmHoaDonBan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHoaDonNhap.resx">
+      <DependentUpon>frmHoaDonNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKhachHang.resx">
+      <DependentUpon>frmKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoai.resx">
+      <DependentUpon>frmLoai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMau.resx">
+      <DependentUpon>frmMau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNhaCC.resx">
+      <DependentUpon>frmNhaCC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNhanVien.resx">
+      <DependentUpon>frmNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNoiSXcs.resx">
+      <DependentUpon>frmNoiSXcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\DataSources\frmDMHangHoa.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="_baitaplonC_DataSet.xsc">
+      <DependentUpon>_baitaplonC_DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="_baitaplonC_DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_baitaplonC_DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_baitaplonC_DataSet.xss">
+      <DependentUpon>_baitaplonC_DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="_baitaplonC_DataSet1.xsc">
+      <DependentUpon>_baitaplonC_DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="_baitaplonC_DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_baitaplonC_DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_baitaplonC_DataSet1.xss">
+      <DependentUpon>_baitaplonC_DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="_baitaplonC_DataSet10.xsc">
+      <DependentUpon>_baitaplonC_DataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="_baitaplonC_DataSet10.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_baitaplonC_DataSet10.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_baitaplonC_DataSet10.xss">
+      <DependentUpon>_baitaplonC_DataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="_baitaplonC_DataSet2.xsc">
+      <DependentUpon>_baitaplonC_DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="_baitaplonC_DataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_baitaplonC_DataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_baitaplonC_DataSet2.xss">
+      <DependentUpon>_baitaplonC_DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="_baitaplonC_DataSet3.xsc">
+      <DependentUpon>_baitaplonC_DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="_baitaplonC_DataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_baitaplonC_DataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_baitaplonC_DataSet3.xss">
+      <DependentUpon>_baitaplonC_DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="_baitaplonC_DataSet4.xsc">
+      <DependentUpon>_baitaplonC_DataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="_baitaplonC_DataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_baitaplonC_DataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_baitaplonC_DataSet4.xss">
+      <DependentUpon>_baitaplonC_DataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="_baitaplonC_DataSet5.xsc">
+      <DependentUpon>_baitaplonC_DataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="_baitaplonC_DataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_baitaplonC_DataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_baitaplonC_DataSet5.xss">
+      <DependentUpon>_baitaplonC_DataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="_baitaplonC_DataSet6.xsc">
+      <DependentUpon>_baitaplonC_DataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="_baitaplonC_DataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_baitaplonC_DataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_baitaplonC_DataSet6.xss">
+      <DependentUpon>_baitaplonC_DataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="_baitaplonC_DataSet7.xsc">
+      <DependentUpon>_baitaplonC_DataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="_baitaplonC_DataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_baitaplonC_DataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_baitaplonC_DataSet7.xss">
+      <DependentUpon>_baitaplonC_DataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="_baitaplonC_DataSet8.xsc">
+      <DependentUpon>_baitaplonC_DataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="_baitaplonC_DataSet8.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_baitaplonC_DataSet8.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_baitaplonC_DataSet8.xss">
+      <DependentUpon>_baitaplonC_DataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="_baitaplonC_DataSet9.xsc">
+      <DependentUpon>_baitaplonC_DataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="_baitaplonC_DataSet9.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_baitaplonC_DataSet9.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_baitaplonC_DataSet9.xss">
+      <DependentUpon>_baitaplonC_DataSet9.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background-vector-dep-ly-cafe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SL-100820-36440-01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4038155-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1121885-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1200px-OOjs_UI_icon_lock.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_401900.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\394d4f45b04e7e9dc8a352e0f334937b.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
